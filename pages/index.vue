@@ -11,8 +11,8 @@
             </div>
             <div class="row gy-4">
                 Products
-                <div v-for="project in projects" :key="project._id" v-text="project.title">
-
+                <div v-for="project in projects" :key="project._id" >
+<h1 v-text="project.title"></h1>
                 </div>
             </div>
         </div>

@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@nuxt/image": "^0.7.1",
-    "@nuxtjs/sanity": "^1.5.0",
-    "@sanity/client": "^4.0.1",
+    "@nuxtjs/sanity": "^0.3.11",
+    "@sanity/client": "^2.0.1",
     "@sanity/image-url": "^1.0.1"
   }
 }
